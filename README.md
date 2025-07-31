@@ -1,3 +1,6 @@
+<a href="#" target="_blank">
+  <img src="svg/TruongNgocSon.svg" width="1200"/>
+</a>
 ## 💻 Tech Stack
 
 ### 🧠 Programming Languages
