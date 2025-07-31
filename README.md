@@ -47,18 +47,18 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a  target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="sontruongdev-facebook" />
   </a>
   <a target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="sontruongdev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-ng%E1%BB%8Dc-s%C6%A1n-4a8b50357" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sontruongdev-linkedin" />
   </a>
   <a  target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="sontruongdev-instagram" />
   </a>
   <a href="mailto:ngocson200346@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="sontruongdev-email" />
   </a>
 </div>
