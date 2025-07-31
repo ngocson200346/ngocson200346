@@ -10,7 +10,8 @@
 ![SCSS](https://img.shields.io/badge/scss-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🧱 Frameworks & Libraries
-🦉 ![OWL](https://img.shields.io/badge/Owl%20Framework-%23FF6F00.svg?style=for-the-badge&logo=javascript&logoColor=white) 🦉
+![OWL](https://img.shields.io/badge/Owl%20Framework-%23FF6F00.svg?style=for-the-badge&logo=javascript&logoColor=white) 🦉</br>
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1006/1006360.png" width="20"/> Database
 
